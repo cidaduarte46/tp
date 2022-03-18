@@ -1,0 +1,25 @@
+programa {
+	funcao inicio() {
+real Mnumer1. Mnumero2. Msoma. Msubtracao. Mmultiplicacao. Mdivisao
+
+
+Mnumero1= 0.0
+Mnumero2= 0.0
+Msoma = 0.0
+Msubtracao = 0.0
+Mmultiplicacao = 0.0
+Mdivisao = 0.0
+
+escreva ("insira o primeiro numero;")
+leia (Mnumero1)
+
+escreva ("insira o segundo numero;")
+leia (numero2)
+
+Msoma = Mnumero1 + Mnumero2
+Msubtracao = Mnumero1 - Mnumero2
+Mmultiplicacao = Mnumero1 * Mnumero2
+Mdivisao = Mnumero1/ Mnumero2
+
+escreva (" \n" A soma dos numeros é , Msoma)
+escreva ("\n" A soma dos numeros é , Msoma)
